@@ -12,6 +12,6 @@ Changes the breathing SFX to the death whistle.
 
 ![Showcase](https://github.com/basmannetjee/WhistlingGhost/assets/156799780/be6f34a0-407d-4cf6-9de1-b2d4de3e4248)
 
-^^^^ (You might have to press on it to view it ^^^^ 
+^^^^ (You might have to press on it to view it) ^^^^ 
 
 Contact me on discord if you have any tips/ideas (**basmannetjeee**)
