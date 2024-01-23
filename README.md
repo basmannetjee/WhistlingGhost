@@ -10,6 +10,6 @@ Changes the breathing SFX to the death whistle.
 
 # Preview
 
-![Showcase](https://simplicated.cc/images/LyzLIcX.mp4 "Showcase of the whistle")
+![Showcase](https://simplicated.cc/images/qXW45kO.mp4 "Showcase of the whistle")
 
 Contact me on discord if you have any tips/ideas (**basmannetjeee**)
