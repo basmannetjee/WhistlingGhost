@@ -4,5 +4,7 @@
     "author": "Basmannetjeee",
     "description": "Changes the ghost girl's breathing SFX for the death whistle.",
     "website_url": "https://github.com/basmannetjee/WhistlingGhost",
-    "dependencies": "BepInEx-BepInExPack-5.4.2100"
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
 }
