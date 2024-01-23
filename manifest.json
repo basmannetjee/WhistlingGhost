@@ -1,0 +1,9 @@
+{
+    "name": "DeathWhistleGhostGirl",
+    "version_number": "1.0.0",
+    "author": "Basmannetjeee",
+    "description": "Changes the ghost girl's breathing SFX for the death whistle.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
